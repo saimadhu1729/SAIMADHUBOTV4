@@ -48,7 +48,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/saimadhu1729/SAIMADHUBOT/fork)
+- FORK THE REPOSITORY [Here](https://github.com/saimadhu1729/SAIMADHUBOTV4/fork)
 
 ## `Scan QR Code For Session`
 [![SAIMADHUBOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
@@ -60,7 +60,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saimadhu1729/SAIMADHUBOT/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saimadhu1729/SAIMADHUBOTV4/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -71,8 +71,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/saimadhu1729/SAIMADHUBOT
-cd SAIMADHUBOT
+git clone https://github.com/saimadhu1729/SAIMADHUBOTV4
+cd SAIMADHUBOTV4
 
 npm start
 ```
@@ -88,8 +88,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/saimadhu1729/SAIMADHUBOT
-cd SAIMADHUBOT
+git clone https://github.com/saimadhu1729/SAIMADHUBOTV4
+cd SAIMADHUBOTV4
 npm start
 ```
 ## `For VPS`
@@ -100,8 +100,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/saimadhu1729/SAIMADHUBOT
-cd SAIMADHUBOT
+git clone https://github.com/saimadhu1729/SAIMADHUBOTV4
+cd SAIMADHUBOTV4
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
